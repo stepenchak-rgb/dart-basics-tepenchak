@@ -1,0 +1,7 @@
+name: dart_basics_tepenchak
+description: Practical work 4 - Dart fundamentals and university management.
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dev_dependencies:
+  test: ^1.25.0

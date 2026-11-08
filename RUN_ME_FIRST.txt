@@ -1,0 +1,6 @@
+1. Extract this ZIP to Desktop (do not open code directly inside ZIP).
+2. In VS Code: File > Open Folder > dart_basics_tepenchak.
+3. Terminal > New Terminal. Run: dart pub get
+4. Run each program: dart run bin/task1_variables.dart (then task2_functions.dart, task3_classes.dart, task4_collections.dart, task5_async.dart)
+5. Run: dart analyze and dart test
+6. Take real screenshots. Review the code. GitHub, genuine commits and coverage evidence must still be completed.

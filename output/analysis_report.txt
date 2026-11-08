@@ -1,0 +1,3 @@
+University: CSV Demo
+Statistics: {university: CSV Demo, students: 4, professors: 0, courses: 0, averageGPA: 79.25}
+Students: [{id: S1, student: Serhii Tepenchak, gpa: 92.0, passedCourses: 1}, {id: S2, student: Anna Bondar, gpa: 74.0, passedCourses: 1}, {id: S3, student: Max Shevchenko, gpa: 85.0, passedCourses: 1}, {id: S4, student: Iryna Melnyk, gpa: 66.0, passedCourses: 1}]

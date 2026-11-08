@@ -1,0 +1,5 @@
+id,firstName,lastName,birthDate,courseId,grade,skills
+S1,Serhii,Tepenchak,1999-10-10,DART,92,Dart;Git
+S2,Anna,Bondar,2000-03-12,DART,74,Flutter;Git
+S3,Max,Shevchenko,2001-07-22,FLUTTER,85,Dart;Flutter
+S4,Iryna,Melnyk,1999-02-15,DART,66,Python;Git
